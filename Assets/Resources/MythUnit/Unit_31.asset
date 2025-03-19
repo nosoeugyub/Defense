@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8bd5a7a45d73ea45aee20ec968a788d, type: 3}
+  m_Name: Unit_31
+  m_EditorClassIdentifier: 
+  Unit_id: 31
+  UnitName: "\uCEA1\uD2F4"
+  Attack: 5300
+  AttackSpeed: 2
+  AttackCount: 2
+  AttackRange: 2
+  UnitGrade: 3
+  Unit_AtkType: 1
+  UnitType: 0
+  SellCount: 900
+  UnitFaceImage: {fileID: 21300000, guid: 0cbc4b8c364d9374a94859d64e539343, type: 3}
+  Mix_Units:
+  - {fileID: 11400000, guid: 6f6195ea1cdd475498849ad62d444291, type: 2}
+  - {fileID: 11400000, guid: 317f76c58a570114f928ec713caa4177, type: 2}
+  - {fileID: 11400000, guid: 95cb3a28fe1c74c44a9538c4ea13b258, type: 2}
+  UnitResultFaceImage: {fileID: 21300000, guid: 0cbc4b8c364d9374a94859d64e539343, type: 3}

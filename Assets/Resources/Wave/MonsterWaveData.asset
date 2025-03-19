@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47330b3ecc2cb6c49af3588478e93efb, type: 3}
+  m_Name: MonsterWaveData
+  m_EditorClassIdentifier: 
+  WaveList:
+  - Wave_index: 1
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 2
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 3
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 4
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 5
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 6
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 7
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 8
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 9
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 10
+    monsterName: BossSlime
+    SpawnTime: 60
+  - Wave_index: 11
+    monsterName: Slime
+    SpawnTime: 15
+  - Wave_index: 12
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 13
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 14
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 15
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 16
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 17
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 18
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 19
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 20
+    monsterName: BossKnightSlime
+    SpawnTime: 60
+  - Wave_index: 21
+    monsterName: KnightSlime
+    SpawnTime: 15
+  - Wave_index: 22
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 23
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 24
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 25
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 26
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 27
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 28
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 29
+    monsterName: Gobln
+    SpawnTime: 15
+  - Wave_index: 30
+    monsterName: BossTroll
+    SpawnTime: 60
